@@ -1,8 +1,7 @@
 // Библиотека для управления сервоприводами
 // Library for controlling servo motors
 
-// Версия: 1.0
-// Автор библиотеки: Коркин Максим, Пятов Антон
+// Авторы библиотеки: Коркин Максим, Пятов Антон
 
 #ifndef TEXHOUM_SERVO_h
 #define TEXHOUM_SERVO_h
