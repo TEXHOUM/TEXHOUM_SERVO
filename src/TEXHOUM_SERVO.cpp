@@ -21,7 +21,7 @@ void SERVO::rotate(int degree) {
 
 void SERVO::hold(int degree, float time) {
 
-  degree = constrain(degree, 0, 180);
+  degree = constrain(degree, 0, 180); // ограничение угла
 
   if (time <= 0)
     return;
